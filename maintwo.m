@@ -2,7 +2,7 @@
 clear
 
 clc
-//Hello world
+//Hello world new
 t = linspace (0, 500, 1000);
 rho0=zeros(4,1);
 rho0(1)=1;
